@@ -6,19 +6,23 @@ Uni project
 - pobranie kodu pojedynczej strony z opiniami o produkcie
 - wydobycie z kodu strony fragmentu odpowiadającego pojedynczej opinii
 - zapisanie do pojedynczych zmiennych wartości składowych opinii
+- obsługa błędów
+-transformacja danych do docelowych typów
 
 |Składowa|Selektor CSS|Nazwa zmiennej|Typ danych|
 |--------|------------|--------------|----------|
-|Opinia|div.js_product-review|opinion||
-||Identyfikator opinii|["data-entry-id"]|opinionId||
-|Autor|.user-post__author-name|author||
-|Rekomendacja|span.user-post__author-recomendation > em|rcmd||
-|Liczba gwiazdek|span.user-post__score-count|stars||
-|Treść opinii|div.user-post__text|content||
-|Lista zalet|div[class*="positives"] ~ div.review-feature__item|pros||
-|Lista wad|div[class*="negatives"] ~ div.review-feature__item|cons||
-|Czy potwierdzona zakupem|div.review-pz|purchased||
-|Data wystawienia|span.user-post__published > time:first-child["datetime"]|publishDate||
-|Data zakupu|span.user-post__published > time:nth-child(2)["datetime"]|purchaseDate||
-|Dla ilu osób przydatna|span[id^="votes-yes"]|useful||
-|Dla ilu osób nieprzydatna|span[id^="votes-no"]|useless||
+|Opinia|div.js_product-review|opinion|bs4.element.Tag|
+||Identyfikator opinii|["data-entry-id"]|opinionId|str|
+|Autor|.user-post__author-name|author|str|
+|Rekomendacja|span.user-post__author-recomendation > em|rcmd|bool|
+|Liczba gwiazdek|span.user-post__score-count|stars|float|
+|Treść opinii|div.user-post__text|content|str|
+|Lista zalet|div[class*="positives"] ~ div.review-feature__item|pros|list|
+|Lista wad|div[class*="negatives"] ~ div.review-feature__item|cons|list|
+|Czy potwierdzona zakupem|div.review-pz|purchased|bool|
+|Data wystawienia|span.user-post__published > time:first-child["datetime"]|publishDate|str|
+|Data zakupu|span.user-post__published > time:nth-child(2)["datetime"]|purchaseDate|str|
+|Dla ilu osób przydatna|span[id^="votes-yes"]|useful|int|
+|Dla ilu osób nieprzydatna|span[id^="votes-no"]|useless|int|
+
+## Etap 2 - Ekstrakcja wszystkich opinii o produkcie z pojedynczej strony

@@ -728,5 +728,19 @@
         "purchaseDate": "2020-04-20 19:21:39",
         "useful": 0,
         "useless": 0
+    },
+    {
+        "opinionId": "11664642",
+        "author": "Użytkownik Ceneo",
+        "rcmd": false,
+        "stars": 2.5,
+        "content": "wykonany dosc niestarannie",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "publishDate": "2020-01-30 09:56:59",
+        "purchaseDate": "2020-01-17 10:28:34",
+        "useful": 0,
+        "useless": 0
     }
 ]

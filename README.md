@@ -1,8 +1,7 @@
 # CeneoScraper
 Uni project
 
-## Etap 1 -pobranie opinii o produkcie
-### Etap 1.1 - pobranie składowych pojedynczej opinii
+## Etap 1 - Pobranie składowych pojedynczej opinii
 - pobranie kodu pojedynczej strony z opiniami o produkcie
 - wydobycie z kodu strony fragmentu odpowiadającego pojedynczej opinii
 - zapisanie do pojedynczych zmiennych wartości składowych opinii
@@ -26,3 +25,13 @@ Uni project
 |Dla ilu osób nieprzydatna|span[id^="votes-no"]|useless|int|
 
 ## Etap 2 - Ekstrakcja wszystkich opinii o produkcie z pojedynczej strony
+- utworzenie słownika do przechowywania wszystkich składowych pojedynczej opinii
+- utworzenie listy, do której będą dodawane słowniki reprezentujące pojedyncze opinie
+- dodanie pętli, w której pobierane były składowe kolejnych opinii z pojedynczej strony
+
+## Etap 3 - Ekstrakcja wszystkich opinii o produkcie z wszystkich stron
+- dodanie pętli, w której:
+..* pobierana jest strona z opiniami
+..* dla każdej opinii na stronie pobierane są jej składowe
+..* sprawdzane jest, czy istnieje kolejna strona z opiniami, które powinny zostać pobrane
+- zapisanie wszystkich opinii o produkcie do pliku .json

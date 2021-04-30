@@ -31,7 +31,10 @@ Uni project
 
 ## Etap 3 - Ekstrakcja wszystkich opinii o produkcie z wszystkich stron
 - dodanie pętli, w której:
-..* pobierana jest strona z opiniami
-..* dla każdej opinii na stronie pobierane są jej składowe
-..* sprawdzane jest, czy istnieje kolejna strona z opiniami, które powinny zostać pobrane
-- zapisanie wszystkich opinii o produkcie do pliku .json
+    - pobierana jest strona z opiniami
+    - dla każdej opinii na stronie pobierane są jej składowe
+    - sprawdzane jest, czy istnieje kolejna strona z opiniami, które powinny zostać pobrane
+    - zapisanie wszystkich opinii o produkcie do pliku .json
+
+## Etap 4 - Refaktoryzacja kodu
+- parametryzacja identyfikatora opinii

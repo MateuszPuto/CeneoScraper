@@ -1,3 +1,5 @@
+help("modules")
+
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -13,6 +15,20 @@ def extractComponent(opinion, selector, attribute=None):
     except IndexError:
         return None
 
+components = {
+    "author": ["span.user-post__author-name"],
+    "rcmd": ["span.user-post__author-recomendation > em"],
+    "stars": ["span.user-post__score-count"],
+    "content": ["div.user-post__text"],
+    "pros": ["div[class*=\"positives\"] ~ div.review-feature__item", False],
+    "cons": ["div[class*=\"negatives\"] ~ div.review-feature__item", False],
+    "purchased": ["div.review-pz"],
+    "publishDate": ["span.user-post__published > time:nth-child(1)", "datetime"],
+    "purchaseDate": ["span.user-post__published > time:nth-child(2)", "datetime"],
+    "useful": ["span[id^='votes-yes']"],
+    "useless": ["span[id^='votes-no']"]
+}
+
 productId = input("Podaj kod produktu: ")
 respons = requests.get("https://www.ceneo.pl/{}#tab=reviews".format(productId))
 page = 0
@@ -21,46 +37,21 @@ opinionList = []
 while respons.status_code == 200:
     page += 1
 
-    respons = requests.get("https://www.ceneo.pl/{0}/opinie-{1}".format(productId, str(page)), allow_redirects=False)
-
     pageDOM = BeautifulSoup(respons.text, 'html.parser')
     opinions = pageDOM.select("div.js_product-review")
 
     for opinion in opinions:
-        opinionId = opinion["data-entry-id"]
-        author = extractComponent(opinion, "span.user-post__author-name")
-        rcmd = extractComponent(opinion, "span.user-post__author-recomendation > em")
-        stars = extractComponent(opinion, "span.user-post__score-count")
-        content = extractComponent(opinion, "div.user-post__text")
-        pros = extractComponent(opinion, "div[class*=\"positives\"] ~ div.review-feature__item", False)
-        cons = extractComponent(opinion, "div[class*=\"negatives\"] ~ div.review-feature__item", False)
-        purchased = extractComponent(opinion, "div.review-pz")
-        publishDate = extractComponent(opinion, "span.user-post__published > time:first-child", "datetime")
-        purchaseDate = extractComponent(opinion, "span.user-post__published > time:nth-child(2)", "datetime")
-        useful = extractComponent(opinion, "span[id^=\"votes-yes\"]")
-        useless = extractComponent(opinion, "span[id^=\"votes-no\"]")
+        opinionDict = {key:extractComponent(opinion, *value)
+                        for key, value in components.items()}
+        opinionDict["opinionId"] = opinion["data-entry-id"]
 
-        rcmd = True if rcmd == "Polecam" else False
-        stars = float(stars.split("/")[0].replace(",", "."))
-        content = content.replace("\n", " ").replace("\r", " ")
-        purchased = bool(purchased)
-        useful = int(useful)
-        useless = int(useless)
+        # rcmd = True if rcmd == "Polecam" else False
+        # stars = float(stars.split("/")[0].replace(",", "."))
+        # content = content.replace("\n", " ").replace("\r", " ")
+        # purchased = bool(purchased)
+        # useful = int(useful)
+        # useless = int(useless)
 
-        opinionDict = { 
-            "opinionId": opinionId,
-            "author": author,
-            "rcmd": rcmd,
-            "stars": stars,
-            "content": content,
-            "pros": pros,
-            "cons": cons,
-            "purchased": purchased,
-            "publishDate": publishDate,
-            "purchaseDate": purchaseDate,
-            "useful": useful,
-            "useless": useless
-        }
         opinionList.append(opinionDict)
 
 with open(f"./opinions/{productId}.json", "w", encoding="UTF-8") as f:

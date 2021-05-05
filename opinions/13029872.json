@@ -1,27 +1,26 @@
 [
     {
-        "opinionId": "14225294",
         "author": "A...k",
-        "rcmd": false,
-        "stars": 3.0,
+        "rcmd": null,
+        "stars": "3/5",
         "content": "Kolor niezgodny z zamówieniem. Miał być orzech jest venge, prawie czarny. Słabo pomalowany, brudzi podłogę . Wygodny. Zmiane serji koloru powinno się napisać w głównym opisie a nie gdzieś w tekście poniżej.",
         "pros": [
             "funkcjonalność",
             "wygodny"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-04-02 22:28:44",
         "purchaseDate": "2021-03-18 19:50:23",
-        "useful": 0,
-        "useless": 0
+        "useful": "1",
+        "useless": "0",
+        "opinionId": "14225294"
     },
     {
-        "opinionId": "14089388",
         "author": "p...a",
-        "rcmd": true,
-        "stars": 4.0,
-        "content": "Całkiem miły mebel. Łatwy w złożeniu i wygodny dla użytkownika. Jedyna niedoróbka to owalna obręcz, która powinna być zamontowana na końcu pomiędzy siedziskiem a oparciem. W żaden sposób nie mogłem jej zamontować. Lekki minus  również to słaba i dość nieczytelna instrukcja montażu. Ogólnie w tej cenie to dobry zakup.",
+        "rcmd": "Polecam",
+        "stars": "4/5",
+        "content": "Całkiem miły mebel. Łatwy w złożeniu i wygodny dla użytkownika. Jedyna niedoróbka to owalna obręcz, która powinna\nbyć zamontowana na końcu pomiędzy siedziskiem a oparciem. W żaden sposób nie mogłem jej zamontować. Lekki minus \nrównież to słaba i dość nieczytelna instrukcja montażu. Ogólnie w tej cenie to dobry zakup.",
         "pros": [
             "funkcjonalność",
             "wygląd",
@@ -29,45 +28,45 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-03-10 14:00:26",
         "purchaseDate": "2021-02-07 13:43:59",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "14089388"
     },
     {
-        "opinionId": "12038573",
         "author": "Użytkownik Ceneo",
-        "rcmd": false,
-        "stars": 3.5,
+        "rcmd": null,
+        "stars": "3,5/5",
         "content": "wykonanie solidne ale elementy fotela są porysowane i kolor nie przypomina koloru ze zdjęcia, miał być orzech a jest wenge!",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-04-01 22:29:48",
         "purchaseDate": "2020-03-20 17:29:35",
-        "useful": 1,
-        "useless": 0
+        "useful": "1",
+        "useless": "0",
+        "opinionId": "12038573"
     },
     {
-        "opinionId": "11521241",
         "author": "Ayla",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Na żywo fotel  prezentuje się bardzo dobrze,doskonale prezentuje się w rustykalnych wnętrzach i zachęca do wygodnego odpoczynku.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-01-02 16:00:48",
         "purchaseDate": "2019-12-13 10:38:44",
-        "useful": 0,
-        "useless": 1
+        "useful": "0",
+        "useless": "1",
+        "opinionId": "11521241"
     },
     {
-        "opinionId": "11470206",
         "author": "Ania",
-        "rcmd": true,
-        "stars": 4.5,
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
         "content": "Bardzo ładny i wygodny fotel. Ociepla wnętrze. Polecam",
         "pros": [
             "duży kąt pochylenia",
@@ -80,62 +79,62 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-12-21 18:23:25",
         "purchaseDate": "2019-11-20 20:45:13",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11470206"
     },
     {
-        "opinionId": "10831402",
         "author": "Łasica",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Niektóre elementy, nie do końca domalowane. Słabej jakości instrukcja. Fotel do samodzielnego montażu.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-07-25 10:39:09",
         "purchaseDate": "2019-07-17 19:36:31",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "10831402"
     },
     {
-        "opinionId": "11210924",
         "author": "Ewa",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Nie potrafię na dzień  dzisiejszy ocenić foteli, ponieważ nie były jeszcze użytkowane",
         "pros": [
             "funkcjonalność",
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-10-29 08:42:13",
         "purchaseDate": "2019-10-05 14:08:28",
-        "useful": 0,
-        "useless": 4
+        "useful": "0",
+        "useless": "4",
+        "opinionId": "11210924"
     },
     {
-        "opinionId": "13666101",
         "author": "w...m",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Fotel dobrze wykonany z giętego drewna. Pozwala naprawdę sie relaksować.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-28 22:15:12",
         "purchaseDate": "2020-11-21 17:35:51",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13666101"
     },
     {
-        "opinionId": "11501048",
         "author": "chania",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Piękny. Polecam!",
         "pros": [
             "duży kąt pochylenia",
@@ -145,17 +144,17 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-12-29 22:14:02",
         "purchaseDate": "2019-11-28 16:12:02",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11501048"
     },
     {
-        "opinionId": "13962086",
         "author": "a...0",
-        "rcmd": false,
-        "stars": 2.0,
+        "rcmd": "Nie polecam",
+        "stars": "2/5",
         "content": "Cena fotela nieadekwatna do jego  wykonania. Niedomalowane podłokietniki, niedoklejona  okleina na kantach podłokietników  i płóz. Fotel miał być w kolorze orzecha, a w rzeczywistości jest w kolorze hebanu.",
         "pros": [
             "funkcjonalność",
@@ -168,31 +167,31 @@
             "nie dokładna i nie wyraźną instrukcja",
             "nie wiadomo jak zamontować jeden z eleme"
         ],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-02-16 09:55:21",
         "purchaseDate": "2021-01-28 18:40:12",
-        "useful": 0,
-        "useless": 0
+        "useful": "1",
+        "useless": "0",
+        "opinionId": "13962086"
     },
     {
-        "opinionId": "11881543",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Siedzisko miało kilka odstających nitek, a poza tym bardzo fajny",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-03-11 09:21:28",
         "purchaseDate": "2020-02-26 21:27:10",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11881543"
     },
     {
-        "opinionId": "11440924",
         "author": "Iza",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Wygodny fotel",
         "pros": [
             "funkcjonalność",
@@ -201,31 +200,31 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-12-17 00:25:19",
         "purchaseDate": "2019-11-25 22:10:32",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11440924"
     },
     {
-        "opinionId": "11848346",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Jakość średnia (małe odpryski na rantach). Poza tym OK.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-03-04 20:01:44",
         "purchaseDate": "2020-02-21 09:45:15",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11848346"
     },
     {
-        "opinionId": "11503893",
         "author": "Marek",
-        "rcmd": true,
-        "stars": 4.5,
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
         "content": "OK",
         "pros": [
             "funkcjonalność",
@@ -234,45 +233,45 @@
             "wygodny"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-12-30 12:54:08",
         "purchaseDate": "2019-12-01 14:17:38",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11503893"
     },
     {
-        "opinionId": "12643794",
         "author": "Bgdn16",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "produkt spelnia wymagania, nic do zarzucenia",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-06-14 06:47:10",
         "purchaseDate": "2020-05-04 19:57:26",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12643794"
     },
     {
-        "opinionId": "12384718",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Za tą cenę szału nie ma ale i bez dramatu.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-05-09 16:28:59",
         "purchaseDate": "2020-04-21 01:44:34",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12384718"
     },
     {
-        "opinionId": "13793933",
         "author": "1...b",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Solidne i estetyczne wykonanie, polecam.",
         "pros": [
             "funkcjonalność",
@@ -281,62 +280,62 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-01-18 21:51:06",
         "purchaseDate": "2021-01-07 17:06:02",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13793933"
     },
     {
-        "opinionId": "11433108",
         "author": "Janusz",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Fotel spełnia kryteria zawarte w opisie.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-12-15 15:58:29",
         "purchaseDate": "2019-12-02 11:26:10",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11433108"
     },
     {
-        "opinionId": "10537843",
         "author": "Katarzyna",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Produkt taki jak w opisie i na zdjęciu",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-05-17 12:53:42",
         "purchaseDate": "2019-05-11 08:45:08",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "10537843"
     },
     {
-        "opinionId": "13449246",
         "author": "p...k",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Produkt spełnił moje oczekiwania",
         "pros": [
             "funkcjonalność",
             "wygodny"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-11-26 07:11:57",
         "purchaseDate": "2020-10-26 15:45:43",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13449246"
     },
     {
-        "opinionId": "13935128",
         "author": "s...p",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Wygodny, dobrze się  buja,",
         "pros": [
             "funkcjonalność",
@@ -345,31 +344,31 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-02-11 10:07:19",
         "purchaseDate": "2021-02-01 14:35:12",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13935128"
     },
     {
-        "opinionId": "11684566",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 4.5,
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
         "content": "wazystko tak jak w opisie",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-02-03 14:17:14",
         "purchaseDate": "2020-01-02 14:36:57",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11684566"
     },
     {
-        "opinionId": "13625251",
         "author": "e...6",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Świetny i wygodny fotel.",
         "pros": [
             "funkcjonalność",
@@ -383,17 +382,17 @@
             "nie wiadomo jak zamontować jeden z eleme",
             "strach przed wywroceniem się"
         ],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-21 22:17:46",
         "purchaseDate": "2020-12-10 15:25:43",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13625251"
     },
     {
-        "opinionId": "13378254",
         "author": "a...i",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Super, zgodnie z opisem",
         "pros": [
             "funkcjonalność",
@@ -402,17 +401,17 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-11-14 11:42:21",
         "purchaseDate": "2020-10-23 12:11:44",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13378254"
     },
     {
-        "opinionId": "13129130",
         "author": "s...7",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Fotel warty swojej ceny",
         "pros": [
             "funkcjonalność",
@@ -421,87 +420,87 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-09-25 20:41:03",
         "purchaseDate": "2020-09-15 14:15:53",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13129130"
     },
     {
-        "opinionId": "12129752",
         "author": "514532690",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Dobrze wykonany produkt",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-04-13 00:02:30",
         "purchaseDate": "2020-03-11 22:35:13",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12129752"
     },
     {
-        "opinionId": "14070915",
         "author": "a...k",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Fotel bardzo wygodny.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-03-06 14:17:14",
         "purchaseDate": "2021-02-20 20:15:24",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "14070915"
     },
     {
-        "opinionId": "11454994",
         "author": "Edyta",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Towar zgodny z opisem",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-12-19 07:39:45",
         "purchaseDate": "2019-11-29 19:47:18",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11454994"
     },
     {
-        "opinionId": "11818023",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Wygodny i ładny.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-02-27 21:16:59",
         "purchaseDate": "2020-01-15 17:16:06",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11818023"
     },
     {
-        "opinionId": "10607231",
         "author": "Małgorzata",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Wszystko super",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-06-02 21:42:52",
         "purchaseDate": "2019-05-10 09:59:46",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "10607231"
     },
     {
-        "opinionId": "13984244",
         "author": "l...0",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Gorąco polecam",
         "pros": [
             "funkcjonalność",
@@ -510,31 +509,31 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-02-19 07:45:56",
         "purchaseDate": "2021-02-07 12:52:40",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13984244"
     },
     {
-        "opinionId": "12443699",
         "author": "r...z",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Bardzo fajny",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-05-15 21:51:20",
         "purchaseDate": "2020-04-15 14:52:49",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12443699"
     },
     {
-        "opinionId": "13934822",
         "author": "y...a",
-        "rcmd": true,
-        "stars": 4.5,
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
         "content": "Bardzo dobry",
         "pros": [
             "funkcjonalność",
@@ -545,73 +544,73 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-02-11 09:26:48",
         "purchaseDate": "2021-01-22 18:42:06",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13934822"
     },
     {
-        "opinionId": "12615468",
         "author": "o...a",
-        "rcmd": true,
-        "stars": 4.5,
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
         "content": "Dobra jakosc",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-06-09 12:27:02",
         "purchaseDate": "2020-06-02 11:28:45",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12615468"
     },
     {
-        "opinionId": "11778709",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Wszystko ok",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-02-20 19:47:15",
         "purchaseDate": "2020-01-23 15:15:25",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11778709"
     },
     {
-        "opinionId": "10549764",
         "author": "Grażyna",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "podoba się",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-05-20 22:00:06",
         "purchaseDate": "2019-05-08 10:10:49",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "10549764"
     },
     {
-        "opinionId": "10927487",
         "author": "Katarzyna",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Jest ok",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2019-08-16 22:02:07",
         "purchaseDate": "2019-07-16 12:02:36",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "10927487"
     },
     {
-        "opinionId": "13870429",
         "author": "m...2",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "5+",
         "pros": [
             "funkcjonalność",
@@ -620,59 +619,59 @@
             "wytrzymałość"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-01-30 21:03:21",
         "purchaseDate": "2020-12-04 00:30:18",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13870429"
     },
     {
-        "opinionId": "13105545",
         "author": "Darious",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "ok",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-09-20 17:28:04",
         "purchaseDate": "2020-09-20 14:10:30",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13105545"
     },
     {
-        "opinionId": "12364710",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Ok",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-05-07 12:32:04",
         "purchaseDate": "2020-04-01 19:44:57",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12364710"
     },
     {
-        "opinionId": "11609359",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "ok",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-01-20 11:19:39",
         "purchaseDate": "2019-12-20 14:13:29",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11609359"
     },
     {
-        "opinionId": "14091747",
         "author": "u...k",
-        "rcmd": false,
-        "stars": 3.0,
+        "rcmd": null,
+        "stars": "3/5",
         "content": "estetyczne wykonanie niestety niewygodny me",
         "pros": [
             "wygląd"
@@ -681,17 +680,17 @@
             "funkcjonalność",
             "wygodny"
         ],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-03-10 20:28:33",
         "purchaseDate": "2021-02-28 07:19:03",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "14091747"
     },
     {
-        "opinionId": "11323146",
         "author": "Babcia",
-        "rcmd": false,
-        "stars": 3.5,
+        "rcmd": null,
+        "stars": "3,5/5",
         "content": "dla składających. siedzisko szersze w kolanach, plecy węższe w barkach. ps. nie mam pojęcia jak zamontować tego prostokąta pomiędzy siedziskiem a plecami.",
         "pros": [
             "duży kąt pochylenia",
@@ -704,17 +703,17 @@
             "nie wiadomo jak zamontować jeden z eleme",
             "strach przed wywroceniem się"
         ],
-        "purchased": false,
+        "purchased": null,
         "publishDate": "2019-11-26 11:25:31",
         "purchaseDate": null,
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11323146"
     },
     {
-        "opinionId": "12497041",
         "author": "b...e",
-        "rcmd": false,
-        "stars": 1.5,
+        "rcmd": "Nie polecam",
+        "stars": "1,5/5",
         "content": "Za bardzo się odchyla do tyłu. Wrażenie nieciekawe.",
         "pros": [
             "wygląd"
@@ -723,24 +722,25 @@
             "funkcjonalność",
             "wygodny"
         ],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-05-22 16:09:57",
         "purchaseDate": "2020-04-20 19:21:39",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12497041"
     },
     {
-        "opinionId": "11664642",
         "author": "Użytkownik Ceneo",
-        "rcmd": false,
-        "stars": 2.5,
+        "rcmd": "Nie polecam",
+        "stars": "2,5/5",
         "content": "wykonany dosc niestarannie",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-01-30 09:56:59",
         "purchaseDate": "2020-01-17 10:28:34",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11664642"
     }
 ]

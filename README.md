@@ -6,7 +6,7 @@ Uni project
 - wydobycie z kodu strony fragmentu odpowiadającego pojedynczej opinii
 - zapisanie do pojedynczych zmiennych wartości składowych opinii
 - obsługa błędów
--transformacja danych do docelowych typów
+- transformacja danych do docelowych typów
 
 |Składowa|Selektor CSS|Nazwa zmiennej|Typ danych|
 |--------|------------|--------------|----------|
@@ -34,7 +34,26 @@ Uni project
     - pobierana jest strona z opiniami
     - dla każdej opinii na stronie pobierane są jej składowe
     - sprawdzane jest, czy istnieje kolejna strona z opiniami, które powinny zostać pobrane
-    - zapisanie wszystkich opinii o produkcie do pliku .json
+- zapisanie wszystkich opinii o produkcie do pliku .json
 
 ## Etap 4 - Refaktoryzacja kodu
 - parametryzacja identyfikatora opinii
+- dodanie słownika opisującego strukturę opinii wraz z selektorami potrzebnymi do ekstrakcji pojedynczych składowych
+- użycie wyrażenia słownikowego (dictionary commprehension) do pobrania (i zapisania) składowych pojedynczej opinii
+- rezygnacja z transformacji składowych opinii (przeniesienie tego procesu do analizy opinii)
+
+## Etap 5 - Analiza statystyczna zbioru opinii o produkcie
+- wyświetlenie listy kodów produtów, dla których zostały pobrane opinie
+- wczytanie opinii o wskazanym produkcie do obiektu DataFrame
+- obliczenie podstawowych statystyk
+    - liczba opinii o produkcie
+    - liczba opinii w których podana została lista zalet
+    - liczba opinii w których podana została lista wad
+    - średnia ocena produktu wyznaczona na podstawie liczby gwiazdek
+    - pierwsza i ostatnia data zakupu
+    - procent opinii potwierdzonych zakupem
+    - liczba wymienionych zalet oraz wad
+
+## Etap 6 - Narysowanie wykresów opartych o dane ze zbioru opinii o produkcie
+- wykres kołowy obrazujący udział poszczególnych wartości rekomendacji w ogólnej liczbie opinii
+- wykres kolumnowy/słupkowy obrazujący czestość występowania opinii z poszczególnymi ocenami wyrażonymi liczbą gwiazdek

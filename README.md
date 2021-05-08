@@ -57,3 +57,4 @@ Uni project
 ## Etap 6 - Narysowanie wykresów opartych o dane ze zbioru opinii o produkcie
 - wykres kołowy obrazujący udział poszczególnych wartości rekomendacji w ogólnej liczbie opinii
 - wykres kolumnowy/słupkowy obrazujący czestość występowania opinii z poszczególnymi ocenami wyrażonymi liczbą gwiazdek
+- wykresy kolumnowe pokazujące ilość podanych przez uzytkowników zalet oraz wad wg rodzaju
